@@ -1,0 +1,6 @@
+{
+  "name": "Gopi Books & Fancy Store",
+  "description": "An attractive storefront for Gopi Books & Fancy Store with product management, shopping cart, and WhatsApp order checkout supporting PhonePe and Card.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
